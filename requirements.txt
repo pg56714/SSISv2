@@ -1,7 +1,7 @@
 numpy==1.25.2
-torch --index-url https://download.pytorch.org/whl/cu118
-torchvision --index-url https://download.pytorch.org/whl/cu118
-torchaudio --index-url https://download.pytorch.org/whl/cu118
+# torch
+# torchvision
+# torchaudio
 opencv-python
 scikit-image
 kornia==0.5.6
