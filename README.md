@@ -68,7 +68,7 @@ sudo apt-get install cmake
 # pip install numpy==1.25.2
 pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu118
 # pip install opencv-python scikit-image kornia==0.5.6
-# pip install setuptools==58.2.0
+# pip install "setuptools>=78.1.1,<81"
 
 pip install -r requirements.txt
 
